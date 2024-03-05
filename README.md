@@ -10,6 +10,7 @@ genesis_validators_root: 0x6e1583608783377f139b7bac661aff7d5cca656af16ac34f9d0ed
 genesis_validators_count: 33000
 genesis_active_validators_count: 33000
 genesis_fork_version: 0x10000001
+deposit_contract: 0xace0000000000000000000000000000000000ace
 ```
 
 ## Bootnode information
