@@ -52,7 +52,7 @@ SECONDS_PER_SLOT: 12
 # 14 (estimate from Eth1 mainnet)
 SECONDS_PER_ETH1_BLOCK: 12
 # 2**8 (= 256) epochs ~27 hours
-MIN_VALIDATOR_WITHDRAWABILITY_DELP0+r\P0+r\P0+r\P0+r\P0+r\AY: 256
+MIN_VALIDATOR_WITHDRAWABILITY_DELAY: 256
 # 2**8 (= 256) epochs ~27 hours
 SHARD_COMMITTEE_PERIOD: 256
 # 2**11 (= 2,048) Eth1 blocks ~8 hours
