@@ -65,11 +65,11 @@ And you can check the genesis file's sha256sum value:
 
 ```
 > sha256sum genesis.json
-77bc4da8adf799bc32ac09cff2908f62a8b9f8df5a656f8d0beed9154e2548ff  genesis.json
+2cc997a7da959439555383636278d1a94738f4f95d268e5ede8e7b7b802c5b31 genesis.json
 > sha256sum chainspec.json
-ba6bd36d9de9af6960ae6fbc6bf9272231a1efc6d60b37bdf2b347267b8515bf  chainspec.json
+f4c5e8218ee8843b635427b8f10a4dd6475bfaa1363315c33a1bdcffe9cc4b96 chainspec.json 
 > sha256sum besu.json
-dba72e26994cfd456ca5d426474649e139072d12cf9e6654625fb45b4d989658  besu.json
+389a9059a52a8b0b3a4cafbb1d8461027d2ea6d0b6efedde4d62d4496d035d6f besu.json
 ```
 
 ## License
